@@ -22,5 +22,3 @@ The app automatically detects faces in an uploaded image (using **MTCNN** or Ope
 - 💻 Simple and interactive web interface using **Streamlit**
 
 ---
-
-## 🗂️ Folder Structure
